@@ -7,7 +7,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ting772/log-viewer
+$ git clone https://github.com/ting772/log-viewer.git
 
 # Go into the repository
 $ cd log-viewer
